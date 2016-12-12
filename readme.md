@@ -25,7 +25,7 @@ The head is `[Node 0]`. The last node points to null, because there is no next n
 
 The new head, after reversing the list, is `[Node 9]`, and now the old head, `[Node 0]`, points to null because it is now the last node.
 
-You can use the linked list you created for the [Linked List Lab](https://github.com/ga-adi-nyc/linked-list-lab) as your starting point, so that can be the linked list you reverse.
+You can use the linked list you created for the [Linked List Lab](https://github.com/ga-adi-macaron/lists-lab) as your starting point, so that can be the linked list you reverse.
 
 #### Requirements
 
@@ -42,7 +42,7 @@ Your method does not need to return anything, but by the end the head input shou
 
 #### Starter code
 
-You can copy your code from the [Linked List Lab](https://github.com/ga-adi-nyc/linked-list-lab) into your fork of this repo and use that as starter code. Or, you can start from scratch and re-implement a linked list as more practice.
+You can copy your code from the [Linked List Lab](https://github.com/ga-adi-macaron/lists-lab) into your fork of this repo and use that as starter code. Or, you can start from scratch and re-implement a linked list as more practice.
 
 #### Deliverable
 
