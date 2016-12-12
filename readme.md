@@ -47,3 +47,9 @@ You can copy your code from the [Linked List Lab](https://github.com/ga-adi-maca
 #### Deliverable
 
 Submit your code via pull request from your fork of this repo. Do not submit this assignment to the Linked List Lab repo. If you worked with a partner, only one person needs to submit a pull request, but be sure to include both names in the pull request title.
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
